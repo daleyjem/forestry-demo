@@ -5,10 +5,14 @@ fields:
 - type: text
   name: title
   label: Title
+  default: Hi
 - type: text
+  default: Hello
 - type: textarea
   name: description
   label: Description
+  default: hello?
 - type: file
   name: image
   label: Image
+  default: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
